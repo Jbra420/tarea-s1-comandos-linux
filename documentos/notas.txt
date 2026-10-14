@@ -1,0 +1,3 @@
+Primera línea: estoy aprendiendo comandos de Linux
+Segunda línea: mkdir crea carpetas
+Tercera línea: cp copia y mv mueve archivos
